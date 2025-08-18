@@ -1,0 +1,26 @@
+﻿{
+    "java.configuration.updateBuildConfiguration": "automatic",
+    "java.compile.nullAnalysis.mode": "disabled",
+    "java.debug.settings.enableRunDebugCodeLens": true,        
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "C:/Users/Jonah/javafx-sdk-17.0.2/lib/**/*.jar"
+    ],
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "C:/Program Files/Java/jdk-17.0.12",
+            "default": true
+        }
+    ],
+    "java.jdt.ls.java.home": "C:/Program Files/Java/jdk-17.0.12",
+    "files.exclude": {
+        "**/.gradle": true,
+        "**/build": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "java.debug.settings.vmArgs": "--module-path \"C:/Users/Jonah/javafx-sdk-17.0.2/lib\" --add-modules javafx.controls,javafx.fxml"
+}

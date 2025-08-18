@@ -1,0 +1,15 @@
+﻿{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Run CardGameApp with JavaFX",
+            "request": "launch",
+            "mainClass": "com.csd420.cardgame.CardGameApp",
+            "projectName": "J_Aney",
+            "vmArgs": "--module-path \"C:\\Users\\Jonah\\Downloads\\openjfx-17.0.2_windows-x64_bin-sdk\\javafx-sdk-17.0.2\\lib\" --add-modules javafx.controls,javafx.fxml",
+            "args": "",
+            "console": "integratedTerminal"
+        }
+    ]
+}
