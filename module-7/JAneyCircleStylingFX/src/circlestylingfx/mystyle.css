@@ -1,0 +1,16 @@
+/* Jonah Aney 9/21/25 CSD-420 Module 7: CSS Styling for circles in JavaFX Programming Assignment */
+
+.plaincircle {
+    -fx-fill: white;
+    -fx-stroke: black;
+}
+
+#redcircle {
+    -fx-fill: red;
+    -fx-stroke: red;
+}
+
+#greencircle {
+    -fx-fill: green;
+    -fx-stroke: green;
+}
